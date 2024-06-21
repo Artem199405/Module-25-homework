@@ -22,8 +22,7 @@ Chat.h
 	 Starting the server
 	*/
 	void runServer();
-
-private:
+	
 	/**
 	 * Manager for working with chat participants
 	 *
